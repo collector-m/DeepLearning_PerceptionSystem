@@ -5,6 +5,6 @@ Here, we developed a deep learning based perception system which integrated sema
 The code will come later with the paper, here are two demo videos:
 
 
-<img src="https://github.com/placeforyiming/Camera_Perception/blob/master/video1.gif" width="600" height="300" />
+<img src="https://github.com/placeforyiming/Camera_Perception/blob/master/video1.gif" width="800" height="300" />
 
-<img src="https://github.com/placeforyiming/Camera_Perception/blob/master/video2.gif" width="600" height="300" />
+<img src="https://github.com/placeforyiming/Camera_Perception/blob/master/video2.gif" width="800" height="300" />
